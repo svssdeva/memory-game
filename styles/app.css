@@ -11,6 +11,8 @@ h1 {
 }
 /*Media queries*/
 
+/*Small Screens*/
+
 @media (max-width: 320px) {
 	.deck {
 		width: 85%;
@@ -23,7 +25,7 @@ h1 {
 }
 
 
-/*larger screens*/
+/*Larger Screens*/
 
 @media (min-width: 768px) {
 	.container {

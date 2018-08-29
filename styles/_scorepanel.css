@@ -4,14 +4,14 @@
 	text-align: left;
 	margin-bottom: 10px;
 }
-
+/* twinkle twinkle little stars*/
 .score-panel .stars {
 	margin: 0;
 	padding: 0;
 	display: inline-block;
 	margin: 0 5px 0 0;
 }
-
+/*be in the same line students*/
 .score-panel .stars li {
 	list-style: none;
 	display: inline-block;
@@ -21,11 +21,11 @@
 	float: right;
 	cursor: pointer;
 }
-
+/*color me gold sir*/
 .fa-star {
 	color: #FFD700;
 }
-
+/*run barry! run!!!*/
 .timer {
 	display: inline-block;
     margin: 0 1rem;
